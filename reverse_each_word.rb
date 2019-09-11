@@ -3,4 +3,4 @@ def reverse_each_word(string)
   p new_string
 end
 
-reverse_each_word
+reverse_each_word("what the fuck")
